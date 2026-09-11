@@ -1,0 +1,10 @@
+{
+  "name":"ZETA — Найди товар рядом",
+  "short_name":"ZETA",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#f5f5f5",
+  "theme_color":"#d71920",
+  "lang":"ru",
+  "description":"MVP приложения ZETA для поиска товаров и ближайших магазинов."
+}

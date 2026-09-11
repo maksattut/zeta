@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#d71920">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="manifest" href="manifest.json">
+<title>ZETA — Найди товар рядом</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+<header>
+  <div class="brand">ZETA</div>
+  <div class="tag">Найди товар рядом</div>
+  <div class="search"><span>⌕</span><input id="search" placeholder="Что ищете? Например: контейнер 82 л"></div>
+</header>
+
+<main>
+  <div class="city">📍 <b id="city">Астана</b><button id="geo">Определить меня</button></div><div id="updated" class="data-status">Загрузка актуального каталога ZETA…</div>
+
+  <section class="hero">
+    <small>ZETA MVP</small>
+    <h1>Найди товар.<br>Найди магазин.</h1>
+    <p>Поиск по каталогу ZETA и ближайшие магазины в одном месте.</p>
+    <button id="official">Открыть официальный ZETA.kz ↗</button>
+  </section>
+
+  <div class="section-title"><h2>Товары ZETA</h2><button id="allProducts">Все</button></div>
+  <div id="products"></div>
+
+  <div class="section-title"><h2>Магазины рядом</h2><button id="allShops">Все магазины</button></div>
+  <div id="shops"></div>
+
+  <div class="service-card"><div class="service-icon">🛠️</div><div><div class="service-title">Сервисный центр ZETA</div><div class="service-text">Ремонт, гарантия и консультация по товару.</div></div><button id="serviceOpen">Получить консультацию</button></div>
+
+  <div class="notice">ℹ️ Источник: официальный ZETA.kz. Наличие на сайте носит ориентировочный характер — перед поездкой точное наличие рекомендуется уточнить у магазина.</div>
+</main>
+
+<nav class="bottom">
+  <button class="nav active" data-action="home"><b>⌂</b>Найти</button>
+  <button class="nav" data-action="catalog"><b>▣</b>Каталог</button>
+  <button class="nav" data-action="service"><b>🛠</b>Сервис</button>
+  <button class="nav" data-action="shops"><b>⌖</b>Магазины</button>
+</nav>
+<div class="modal" id="serviceModal"><div class="modal-backdrop" id="serviceClose"></div><div class="modal-sheet"><button class="modal-x" id="serviceX">×</button><div class="modal-icon">🛠️</div><h2>Сервисный центр ZETA</h2><p>Получите консультацию по ремонту, гарантии, реставрации и обслуживанию.</p><div class="contact-grid"><a class="contact" href="tel:+77273131351"><span>📞</span><strong>Позвонить</strong><small>+7 (727) 313-13-51<br>вн. 153, 203</small></a><a class="contact" href="https://wa.me/77771729434" target="_blank"><span>💬</span><strong>WhatsApp</strong><small>+7 777 172 94 34</small></a><a class="contact" href="mailto:remont@zeta.kz"><span>✉️</span><strong>Написать</strong><small>remont@zeta.kz</small></a><a class="contact" href="https://zeta.kz/service" target="_blank"><span>🌐</span><strong>Сервис ZETA.kz</strong><small>Подробнее</small></a></div><div class="service-hours">🕐 Пн–Пт 09:00–18:00 · Сб 09:00–14:00 · Вс выходной</div></div></div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
