@@ -1,1 +1,5544 @@
-{"source":"https://astana.zeta.kz","city":"Астана","updatedAt":"demo","products":[]}
+{
+  "source": "https://astana.zeta.kz",
+  "city": "Астана",
+  "updatedAt": "2026-09-11T05:44:28Z",
+  "products": [
+    {
+      "name": "LACY Блюдо на ножке 300мм 1*4, 96770",
+      "sku": "96770 2 790",
+      "price": "96770 2 790 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/posuda_dlya_servirovki/lacy_blyudo_na_nozhke_300mm_1_4_96770/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 8
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 6
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Блюдо PATISSERI 322мм 1*6. 10345",
+      "sku": "10345 1 985",
+      "price": "10345 1 985 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/posuda_dlya_servirovki/patisseri_blyuda_322mm_1_6_10345/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 5
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 31
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 6
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 59
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 21
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"ЦАРИЦА ЦВЕТОВ\" для суккулентов 2,5л",
+      "sku": "H00000001506 545",
+      "price": "00000001506 545 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_sukkulentov_2_5l/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "AMBER Бокал для шампанского 6 шт. 210 мл 1*4, 440295",
+      "sku": "440295 5 970",
+      "price": "440295 5 970 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/amber_bokal_dlya_shampanskogo_6_sht_210_ml_1_4_440295/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 7
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 3
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 11
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 15
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 8
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок для цветов мод АК 637 (Турция)",
+      "sku": "ИМП-ТВ-079011 1 485",
+      "price": "079011 1 485 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_dlya_tsvetov_mod_ak_637_turtsiya/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 48
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Набор посуды, сумка H1597B",
+      "sku": "АРШ-007766 1 675",
+      "price": "007766 1 675 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/detskaya/destkie_tovary/igry_i_igrushki/nabor_posudy_sumka_h1597b/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 13
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кора сосновая Фаско Цветочное счастье 2,5л",
+      "sku": "АРШ-007818 1 390",
+      "price": "007818 1 390 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/kora_sosnovaya_fasko_tsvetochnoe_schaste_2_5l/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 18
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Графин OLIVIA для масла (2) 260 сс 1*4, 80109",
+      "sku": "80109 (2) 2 195",
+      "price": "2 195 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/kuvshiny_i_grafiny/grafin_dlya_masla_olivia_260ml_2_1_4_80109/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 8
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 50
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 7
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Банка CESNI для сыпучих 3шт. 650мл 1*4, 97424",
+      "sku": "97424 (3) 4 580",
+      "price": "4 580 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/cesni_banka_dlya_sypuchikh_3sht_650ml_1_4_97424/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 14
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 3
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 31
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "TRIUMPH Стакан для виски 320мл (6) 1*8 41620",
+      "sku": "41620-6 4 235",
+      "price": "6 4 235 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/stakan_dlya_viski_triumph_320ml_6_1_8_41620/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 15
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "BISTRO Бокал для коньяка 265мм (6) 44483",
+      "sku": "44483-6 2 570",
+      "price": "6 2 570 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/bokal_dlya_konyaka_bistro_265mm_6sht_44483/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 7
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 7
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "BASIC Соусница 170cc 1*12 55012SL",
+      "sku": "55012SL 1 175",
+      "price": "1 175 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/sousnitsy/basic_sousnitsa_170cc_1_12_55012sl/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 14
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 37
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "PATISSERI Блюдо на ножке (бортик вверх) 280мм 1*4, 98259V UST",
+      "sku": "98259V-UST 5 575",
+      "price": "5 575 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/posuda_dlya_servirovki/patisseri_blyudo_na_nozhke_bortik_vverkh_280mm_1_4_98259v_ust/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 25
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 19
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок детский большой. арт. М 2584 (М-Пластика РФ)",
+      "sku": "ИМП-ТВ-045318 4 055",
+      "price": "045318 4 055 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/detskaya/destkie_tovary/detskie_gorshki/gorshok_detskiy_bolshoy_art_m_2584_m_plastika_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 18
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 21
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Блюдо TOSCANA круглое 303мм 1*6 10596",
+      "sku": "10596 1 510",
+      "price": "10596 1 510 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/posuda_dlya_servirovki/blyudo_toscana_krugloe_303mm_1_6_10596/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 4
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 20
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 50
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 13
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 65
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 23
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Бокал CLASSIQUE для вина 2 шт. 445мм 1*8, 440152",
+      "sku": "440152 (2) 2 690",
+      "price": "2 690 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/classique_bokal_dlya_vina_2_sht_445mm_1_8_440152/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 5
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 9
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 8
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Блюдо BASIC для лимона с крышкой 1*12, 98397",
+      "sku": "98397 1 175",
+      "price": "98397 1 175 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/posuda_dlya_servirovki/blyudo_dlya_limona_basic_s_kryshkoy_1_12_98397/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 37
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 126
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 100
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 12
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 64
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 21
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Банка CESNI с пласт.крышкой 1500мл (1) 1*6, 43023",
+      "sku": "43023 1 860",
+      "price": "43023 1 860 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/banka_cesni_s_plast_kryshkoy_1500ml_1_1_6_43023/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 52
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стопка LUNA для водки 6 шт. 60мл 1*12, 42043",
+      "sku": "42043 (6) 2 415",
+      "price": "2 415 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/luna_stopka_dlya_vodki_6_sht_60ml_1_12_42043/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 24
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Табурет дерево (РФ)",
+      "sku": "ИМП-ТВ-056116 6 555",
+      "price": "056116 6 555 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/stulya7/taburety/taburet_derevo_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 48
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 325
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 297
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 311
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 467
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 362
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "TIMELESS Стакан для сока 4 шт. 205мл 1*6, 52810",
+      "sku": "52810-4 3 450",
+      "price": "4 3 450 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/timeless_stakan_dlya_soka_4_sht_205ml_1_6_52810/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 25
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Ваза FLORA 79мм 1*12, 43407",
+      "sku": "43407 775",
+      "price": "43407 775 ₸",
+      "url": "https://astana.zeta.kz/catalog/dopolnitelno/dekor/vazy2/flora_vaza_79mm_1_12_43407/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 21
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "CHARANTE Бокал для коньяка 2 шт. 430мл 1*12, 440219",
+      "sku": "440219-2 1 800",
+      "price": "2 1 800 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/charante_bokal_dlya_konyaka_2_sht_430ml_1_12_440219/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 7
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "CLASSIQUE Бокал для шампанского 2шт. 250 мм 1*8, 440335",
+      "sku": "440335 2 375",
+      "price": "440335 2 375 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/classique_bokal_dlya_shampanskogo_2sht_250_mm_1_8_440335/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 12
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 11
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 8
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 10
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 11
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан SIDE для воды и коктеля 290мм (6) 1*8, 42439",
+      "sku": "42439 (6) 4 030",
+      "price": "4 030 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/stakan_dlya_vody_i_koktelya_side_290mm_6_1_8_42439/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 11
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан SIDE для виски 220 мм (6) 1*8, 42435",
+      "sku": "ST-100-42435 3 600",
+      "price": "42435 3 600 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/stakan_side_dlya_viski_220_mm_6_1_8_42435/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 11
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан TRIUMPH для коктеля 6 шт. 290мл 1*8, 41630",
+      "sku": "41630 (6) 4 235",
+      "price": "4 235 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/triumph_stakan_dlya_koktelya_6_sht_290ml_1_8_41630/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 48
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кастрюля 7,0л цилиндр.декор 1с18с /2",
+      "sku": "1с18с /2 8 370",
+      "price": "2 8 370 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/prigotovlenie_edy/kastryuli_i_kovshi/kastryulya_7_0l_tsilindr_dekor_1s18s_2/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 2
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "ISABELLA Бокал для вина 6 шт. 350 мл 1*4, 440271",
+      "sku": "440271 6 110",
+      "price": "440271 6 110 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/isabella_bokal_dlya_vina_6_sht_350_ml_1_4_440271/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 16
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 7
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан LUNA для виски 6 шт. 365мм 1*8, 42348",
+      "sku": "42348 (6) 3 480",
+      "price": "3 480 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/luna_stakan_dlya_viski_6_sht_365mm_1_8_42348/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 37
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Фужер ENOTECA для вина 6 шт. 630 сс 1*4, 44238",
+      "sku": "44238 (6) 9 165",
+      "price": "9 165 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/enoteca_fuzher_dlya_vina_6_sht_630_ss_1_4_44238/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 13
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 6
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 3
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 37
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "BISTRO Бокал для коньяка 6 шт. 395 мл 1*4, 44188",
+      "sku": "44188 5 495",
+      "price": "44188 5 495 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/bistro_bokal_dlya_konyaka_6_sht_395_ml_1_4_44188/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 9
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 22
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 8
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "BALTIC Стопка для водки 6 шт. 60мм 1*8, 41270",
+      "sku": "41270 2 880",
+      "price": "41270 2 880 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/baltic_stopka_dlya_vodki_6_sht_60mm_1_8_41270/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 21
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло М Норма Н гобелен,кзам подл.пласт.,крест.пласт.",
+      "sku": "ОФК-01721 30 075",
+      "price": "01721 30 075 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/ofisnye_kresla/kreslo_m_norma_n_gobelen_kzam_podl_plast_krest_plast/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Салатница INVITATION 220мм 1*4, 10342",
+      "sku": "10342 1 825",
+      "price": "10342 1 825 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/salatniki/salatnitsa_invitation_220mm_1_4_10342/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 4
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 24
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 12
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "BASIC Соусница 257cc 1*12 55022",
+      "sku": "55022-1 1 940",
+      "price": "1 1 940 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/sousnitsy/sousnitsa_basic_257cc_1_12_55022/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 4
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 157
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 118
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 41
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 120
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 18
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Банка CESNI для сыпучих 1100мл (2) 1*6 97425",
+      "sku": "97425 (2) 2 850",
+      "price": "2 850 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/banka_cesni_dlya_sypuchikh_1100ml_2_1_6_97425/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 16
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 6
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Банка CESNI для сыпучих 1500мл 1*6 97426",
+      "sku": "97426 1 585",
+      "price": "97426 1 585 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/cesni_banka_dlya_sypuchikh_1500ml_1_6_97426/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 16
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "CESNI Банка с пласт.крышкой 650 мл.(3) 1*4 43003",
+      "sku": "43003-3 2 560",
+      "price": "3 2 560 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/banka_cesni_s_plast_kryshkoy_650_ml_3_1_4_43003/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 11
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 65
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 51
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "CESNI Банка с пласт.крышкой 1100мл (2) 1*6 43013",
+      "sku": "43013-2 2 705",
+      "price": "2 2 705 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/cesni_banka_s_plast_kryshkoy_1100ml_2_1_6_43013/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 63
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 70
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кувшин CASABLANKA 1140мл 1*6, 43614",
+      "sku": "43614 2 615",
+      "price": "43614 2 615 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/kuvshiny_i_grafiny/casablanka_kuvshin_1140ml_1_6_43614/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 6
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кувшин BASIC 1300 мл 1*6, 43964",
+      "sku": "43964 2 660",
+      "price": "43964 2 660 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/kuvshiny_i_grafiny/kuvshin_basic_1300_ml_1_6_43964/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 16
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 20
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "PERLA Блюдо с разделителем 270мм 1*6, 54268",
+      "sku": "54268-1 2 530",
+      "price": "1 2 530 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/posuda_dlya_servirovki/perla_blyudo_s_razdelitelem_270mm_1_6_54268/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 8
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "CESNI Банка с пласт.крыш 940мл 1*6 43004",
+      "sku": "43004-1 1 050",
+      "price": "1 1 050 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/banka_cesni_s_plast_krysh_940ml_1_6_43004/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 15
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 7
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 10
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 27
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Удобрение минеральное жидкое Фаско Цветочное счастье в бутылках Фиалка 285мл",
+      "sku": "ИМП-ТВ-050521 855",
+      "price": "050521 855 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/udobreniya_dlya_rasteniy/udobrenie_mineralnoe_zhidkoe_fasko_tsvetochnoe_schaste_v_butylkakh_fialka_285ml/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Декоративное ограждение \"Камень\" м/п",
+      "sku": "ПЛ-00189 770",
+      "price": "00189 770 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/ograzhdeniya_dekorativnye/dekorativnoe_ograzhdenie_quot_kamen_quot_m_p/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 61
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 39
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 19
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 55
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 20
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Контейнер для мусора \"Step\" с крышкой Push to Open 25л (Репаблик РФ)",
+      "sku": "SV4143 6 365",
+      "price": "4143 6 365 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/uborka_pomeshcheniya/musornye_vedra/konteyner_dlya_musora_quot_kvadra_quot_s_kryshkoy_push_to_open_25l_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 10
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 3
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Совок пластиковый Majed new (И)",
+      "sku": "ИМП-ТВ-070441 200",
+      "price": "070441 200 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/uborka_territorii/veniki_i_sovki_dop/sovok_plastikovyy_majed_new_i/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 21
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Лоток-вкладыш для столовых приборов КОМПАКТ М1141 (М-Пластика РФ)",
+      "sku": "арш-005530 2 215",
+      "price": "005530 2 215 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/raznoe/lotok_vkladysh_dlya_stolovykh_priborov_kompakt_m1141_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 11
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 18
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 20
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 24
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 11
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Мусорное ведро с педалью \"Maya\" Hoomket (И)",
+      "sku": "ИМП-ТВ-070435 3 630",
+      "price": "070435 3 630 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/uborka_pomeshcheniya/musornye_vedra/musornoe_vedro_s_pedalyu_quot_maya_quot_hoomket_i/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 3
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 8
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан стекл. 256 (И)",
+      "sku": "АРШ-005756 230",
+      "price": "005756 230 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/stakan_stekl_256_i/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 28
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина 60л мод АК 580 (Турция)",
+      "sku": "AK 580 8 370",
+      "price": "580 8 370 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_60l_mod_ak_580_turtsiya/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 5
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 17
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок для цветов InGreen London D125мм, 1л, с дренажной вставкой белый (Репаблик РФ)",
+      "sku": "IG770010048 1 315",
+      "price": "770010048 1 315 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_dlya_tsvetov_london_d_12_5_sm_1l_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 23
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Полка навесная \"Бабочка\" Б, 42*30 (КУЛ) (снят с производства 19.01.2023)",
+      "sku": "МП-ТВ-947519 950",
+      "price": "947519 950 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/polki_i_etazherki/polki_i_etazherki/polka_navesnaya_quot_babochka_quot_b_42_30_kul/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 4
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 6
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 26
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан ПРИЗМА М 2241 (М-пластика РФ)",
+      "sku": "М 2241 540",
+      "price": "2241 540 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/stakan_prizma_m_2241_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 16
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ДЮНА D150мм 1,7л с поддоном М 3068 (М-пластика РФ)",
+      "sku": "ИМП-ТВ-075959 1 030",
+      "price": "075959 1 030 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_dyuna_d150mm_1_7l_s_poddonom_m_3068_rf/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 3
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 9
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 26
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо круглое ПИЛАР D390 H750 мм 23/69л с вкладышем М 3088 (М-пластика РФ)",
+      "sku": "М 3088 22 580",
+      "price": "3088 22 580 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_krugloe_pilar_d390_h750_mm_23_69l_s_vkladyshem_rf/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ПРИЗМА D130мм 1л с поддоном М 3137 (М-пластика РФ)",
+      "sku": "ИМП-ТВ-075965 745",
+      "price": "075965 745 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_prizma_d130mm_1l_s_poddonom_m_3137_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ПРИЗМА D175мм 2,6л с поддоном М 3138 (М-пластика РФ)",
+      "sku": "ИМП-ТВ-075966 1 400",
+      "price": "075966 1 400 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_prizma_d175mm_2_6l_s_poddonom_m_3138_rf/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 21
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 18
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ПРИЗМА D220мм 4,7л с поддоном М 3139 (М-пластика РФ)",
+      "sku": "ИМП-ТВ-075967 2 255",
+      "price": "075967 2 255 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_prizma_d220mm_4_7l_s_poddonom_m_3139_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 10
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 15
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо РОТАНГ D340мм H 630мм 9/42л со вставкой М 3407 (М-пластика РФ)",
+      "sku": "М 3407 10 280",
+      "price": "3407 10 280 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_rotang_d340mm_h_630mm_9_42l_so_vstavkoy_m_3407_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Фужер ENOTECA для шампанского 6 шт. 170мл 1*4, 44688",
+      "sku": "44688 (6) 7 985",
+      "price": "7 985 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/enoteca_fuzher_dlya_shampanskogo_6_sht_170ml_1_4_44688/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 11
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Ленайс (мет.каркас) подл.пл.303 с накл.,крест.пл.d416/ 670-1/ 680/ 700 м/п, кол JL",
+      "sku": "МП-ТВ-947611 39 830",
+      "price": "947611 39 830 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/ofisnye_kresla/kreslo_lenays_met_karkas_podl_pl_303_s_nakl_krest_pl_d416_680_700_m_p_kol_jl/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Ленайс (мет.каркас) (разн.цв.) подл.пл.303 с накл.,крест.пл.d416/ 670-1/ 680/ 700 м/п, кол JL",
+      "sku": "МП-ТВ-947657 41 670",
+      "price": "947657 41 670 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/ofisnye_kresla/kreslo_lenays_met_karkas_razn_tsv_podl_pl_303_s_nakl_krest_pl_d416_680_700_m_p_kol_jl/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф для раздевалок усиленный ML-11-30 (LS-01) (двойная номенклатура)",
+      "sku": "S23099401102-- 45 000",
+      "price": "45 000 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/shkaf_ls_01/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Paclan фольга алюминиевая 10м х 29см в рулоне, 13 мкм.",
+      "sku": "09-133302-701 1 035",
+      "price": "701 1 035 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/prigotovlenie_edy/aksessuary_dlya_zapekaniya/paclan_folga_alyuminievaya_10m_kh_29sm_v_rulone_13_mkm/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 25
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Paclan Practi губки для посуды Soft Power, 2 шт",
+      "sku": "409170 380",
+      "price": "409170 380 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/uborka_pomeshcheniya/tryapki_gubki_shchetki_i_pr/paclan_practi_gubki_dlya_posudy_soft_power_2_sht/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 11
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грабли для цветов мод INGRAB-4C (Польша)",
+      "sku": "ИМП-ТВ-078363 400",
+      "price": "078363 400 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/sadovyy_inventar/grabli_dlya_tsvetov_mod_ingrab_4c_polsha/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 7
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок для рассады мод ISEW780-405U (Польша)",
+      "sku": "ИМП-ТВ-078339 12 205",
+      "price": "078339 12 205 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_dlya_rassady_mod_isew780_405u_polsha/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 9
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок мод IPE600-S433 (Польша)",
+      "sku": "IPE600-S433 5 195",
+      "price": "433 5 195 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_mod_ipe600_s433_polsha/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Бадминтон Next металлич., в ассорт. в чехле N-503",
+      "sku": "271468 2 945",
+      "price": "271468 2 945 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/detskaya/destkie_tovary/igry_i_igrushki/badminton_next_metallich_v_assort_v_chekhle_n_503/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 27
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 12
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 26
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 15
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шлем защитный, в пакет C-17640",
+      "sku": "C-17640 1 845",
+      "price": "17640 1 845 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/detskaya/destkie_tovary/igry_i_igrushki/shlem_zashchitnyy_v_paket_c_17640/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 6
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 6
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Таз 6 л \"Расмус\" м/п цвет.",
+      "sku": "МП-ТВ-947761 1 125",
+      "price": "947761 1 125 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/uborka_pomeshcheniya/tazy_khozyaystvennye/taz_6_l_quot_rasmus_quot_m_p_tsvet/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 41
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 26
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 14
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 82
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 17
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Таз 7 л \"Расмус\" м/п цвет.",
+      "sku": "МП-ТВ-947762 1 215",
+      "price": "947762 1 215 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/uborka_pomeshcheniya/tazy_khozyaystvennye/taz_7_l_quot_rasmus_quot_m_p_tsvet/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 32
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 16
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 29
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 9
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 10
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Доска магнитно-маркерная, пакет 632-5",
+      "sku": "1727439 935",
+      "price": "1727439 935 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/detskaya/destkie_tovary/igry_i_igrushki/doska_magnitno_markernaya_paket_632_5/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 15
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кружка 1л декор 1с3с (В)",
+      "sku": "1с3с 2 560",
+      "price": "2 560 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/dlya_chaya_i_kofe/kruzhka_1l_dekor_1s3s_12/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 10
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 10
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Миска 0,8л декор 1с5с (В)",
+      "sku": "1с5с 2 320",
+      "price": "2 320 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/otdykh_i_piknik/metallicheskaya_posuda/miska_0_8l_dekor_1s5s_24/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 20
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Блюдо 2 л. декор 1с6с/Б /10",
+      "sku": "1с6с/Б 3 565",
+      "price": "3 565 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/posuda_dlya_servirovki/blyudo_2_l_dekor_1s6s_b_10/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 20
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 18
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 19
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 17
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 8
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 25
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Миска 1,5 л.декор 1с7с (В)",
+      "sku": "1с7с 2 325",
+      "price": "2 325 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/otdykh_i_piknik/metallicheskaya_posuda/miska_1_5_l_dekor_1s7s/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 20
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 18
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 18
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 18
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 15
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 15
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кастрюля 1,5л декор 1с15с/1 (В)",
+      "sku": "1с15с/1 5 410",
+      "price": "1 5 410 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/prigotovlenie_edy/kastryuli_i_kovshi/kastryulya_1_5l_dekor_1s15s_1/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 5
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 4
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 7
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кастрюля 4,5л цилиндр.декор 1с17с (В)",
+      "sku": "1с17с 5 660",
+      "price": "5 660 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/prigotovlenie_edy/kastryuli_i_kovshi/kastryulya_4_5l_tsilindr_dekor_1s17s/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 5
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 47
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 15
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Ведро 12л с крышкой декор 1с28с (В)",
+      "sku": "1с28с 8 900",
+      "price": "8 900 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/uborka_territorii/vedra_khozyaystvennye/vedro_12l_s_kryshkoy_dekor_1s28s/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 4
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 5
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 5
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Бак 18л декор 1с31с (В)",
+      "sku": "1с31с 14 620",
+      "price": "14 620 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/prigotovlenie_edy/kastryuli_i_kovshi/bak_18l_dekor_1s31s/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 2
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Миска 2л декор 1с32с (В)",
+      "sku": "1с32с 2 790",
+      "price": "2 790 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/otdykh_i_piknik/metallicheskaya_posuda/miska_2l_dekor_1s32s/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 12
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 7
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 10
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 9
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 10
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 10
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кастрюля 9,0л цилиндр.декор 1с200с (В)",
+      "sku": "1с200с 8 990",
+      "price": "8 990 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/prigotovlenie_edy/kastryuli_i_kovshi/kastryulya_9_0l_tsilindr_dekor_1s200s/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 4
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 3
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 2
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 6
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Чайник 3,5л декор 1с26с (В)",
+      "sku": "1с26с 6 200",
+      "price": "6 200 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/dlya_chaya_i_kofe/chaynik_3_5l_dekor_1s26s/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 19
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 12
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 14
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 16
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 20
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 23
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Банка с Бамбук крышкой ВУДИ 575 мл 1*6, 43573",
+      "sku": "43573 1 315",
+      "price": "43573 1 315 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/banka_s_bambuk_kryshkoy_vudi_575_ml_1_6_43573/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 5
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 40
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "ISABELLA Бокал 6 шт. 200 мл 1*4. 440270",
+      "sku": "440270 5 970",
+      "price": "440270 5 970 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/isabella_bokal_6_sht_200_ml_1_4_440270/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 19
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 6
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 11
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 10
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Банка с крышкой КРЕМЛИН 1000 мл 1*6, 97626",
+      "sku": "97626 2 410",
+      "price": "97626 2 410 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/banka_s_kryshkoy_kremlin_1000_ml_1_6_97626/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 62
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Банка с бамбук крышкой ВУДИ 860мл 1*6, 43583",
+      "sku": "43583 1 505",
+      "price": "43583 1 505 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/steklo/banka_s_bambuk_kryshkoy_vudi_860ml_1_6_43583/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 7
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 28
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Графин 500мл. 1160-Н5 (Декостек)",
+      "sku": "арш-007893 770",
+      "price": "007893 770 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/kuvshiny_i_grafiny/grafin_500ml_1160_n5_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 7
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 11
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 29
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 159
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Графин 500мл. 1162-Н5 (Декостек)",
+      "sku": "1162-Н5 770",
+      "price": "5 770 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/kuvshiny_i_grafiny/grafin_500ml_1162_n5_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 4
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 90
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Набор стаканов 4шт. 300мл. арт.148/4-ПП (Декостек)",
+      "sku": "арш-007907 1 385",
+      "price": "007907 1 385 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/nabor_stakanov_4sht_300ml_art_148_4_pp_rf/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 17
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан \"Гранёный\" 250мл. для взрослых арт.785 (Декостек)",
+      "sku": "арш-007927 250",
+      "price": "007927 250 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/stakan_quot_granyenyy_quot_250ml_dlya_vzroslykh_art_785_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 674
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 434
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 467
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 327
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1866
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 199
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ВЯЗАНИЕ D135мм 1,1л с поддоном мод.М 3119 (разн.цв) (М-Пластика РФ)",
+      "sku": "ПЛИ-018219 785",
+      "price": "018219 785 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_vyazanie_d135mm_1_1l_s_poddonom_mod_m_3119_razn_tsv_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 9
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для продуктов ПРАКТИК 0,8л мод.М 1462 (М-Пластика РФ)",
+      "sku": "ПЛИ-018798 455",
+      "price": "018798 455 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_produktov_praktik_0_8l_mod_m_1462_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 21
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 14
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 42
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 21
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 21
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для продуктов ПРАКТИК 1,5л мод.М 1463 (М-Пластика РФ)",
+      "sku": "М 1463 565",
+      "price": "1463 565 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_produktov_praktik_1_5l_mod_m_1463_rf/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 19
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 42
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 10
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для продуктов ПРАКТИК 2л мод. М 1464 (М-Пластика РФ)",
+      "sku": "М 1464 895",
+      "price": "1464 895 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_produktov_praktik_2l_mod_m_1464_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 3
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 38
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 5
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 16
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ВЯЗАНИЕ D155мм 1,9л с поддоном мод.М 3120 (разн.цв) (М-Пластика РФ)",
+      "sku": "ПЛИ-018818 1 115",
+      "price": "018818 1 115 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_vyazanie_d155mm_1_9l_s_poddonom_mod_m_3120_razn_tsv_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 41
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 7
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 22
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ВЯЗАНИЕ D180мм 2,8л с поддоном мод.М 3121 (разн.цв) (М-Пластика РФ)",
+      "sku": "ПЛИ-018822 1 420",
+      "price": "018822 1 420 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_vyazanie_d180mm_2_8l_s_poddonom_mod_m_3121_razn_tsv_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 15
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 30
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 10
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Контейнер 82 л с крышкой (на колесиках) м/п черн.",
+      "sku": "МП-ТВ-947758 6 550",
+      "price": "947758 6 550 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/masterskaya/khranenie_instrumentov2/konteyner_82_l_s_kryshkoy_na_kolesikakh_m_p_chern/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 10
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 3
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 4
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 19
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 23
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Ваза BOTANICA 260 мм 1*6, 43267",
+      "sku": "43267 2 075",
+      "price": "43267 2 075 ₸",
+      "url": "https://astana.zeta.kz/catalog/dopolnitelno/dekor/vazy2/vaza_botanica_260_mm_1_6_43267/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 10
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 7
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 35
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ВЕРОНА D140мм с подставкой мод.М3095 (разн.цв) (М-Пластика РФ)",
+      "sku": "ПЛИ-014322 665",
+      "price": "014322 665 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_verona_d140mm_s_podstavkoy_mod_m3095_razn_tsv_rf/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 6
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ВЕРОНА D160мм с подставкой мод.М3096 (разн,цв) (М-Пластика РФ)",
+      "sku": "ПЛИ-014324 960",
+      "price": "014324 960 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_verona_d160mm_s_podstavkoy_mod_m3096_razn_tsv_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 22
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 3
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 16
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ВЕРОНА D180мм с подставкой мод.М3097 (разн.цв) (М-Пластика РФ)",
+      "sku": "ПЛИ-014326 1 250",
+      "price": "014326 1 250 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_verona_d180mm_s_podstavkoy_mod_m3097_razn_tsv_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 3
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 15
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 7
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 18
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Контейнер АПТЕЧКА 4л М 2907 (М Пластик-РФ) бх",
+      "sku": "М 2907 2 450",
+      "price": "2907 2 450 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/konteynery/aptechki_i_tabletnitsy/konteyner_aptechka_4l_m_2907_rf_bkh/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 10
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 18
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 6
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Paclan универсальная тряпка, 35*35см,5 шт.",
+      "sku": "410121 590",
+      "price": "410121 590 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/uborka_pomeshcheniya/tryapki_gubki_shchetki_i_pr/paclan_universalnaya_tryapka_35_35sm_5_sht/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 21
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стул мод RH157C белый (Малайзия)",
+      "sku": "АРШ-008499 20 705",
+      "price": "008499 20 705 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/stulya7/stulya_dlya_gostinoy4/stul_mod_rh157c_belyy_malayziya/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан стеклянный KAVH 0955 (И)",
+      "sku": "арш-008541 225",
+      "price": "008541 225 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/stakan_steklyannyy_kavh_0955_i/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 81
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 11
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Полка на раковину 1138 (М-Пластика РФ)",
+      "sku": "ИМП-ТВ-047241 1 345",
+      "price": "047241 1 345 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/spetsoborudovanie/polki_dlya_vannykh_komnat2/polka_na_rakovinu_1138_rf/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 83
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Комплект для туалета ВЯЗАНИЕ М 5019 (М-Пластика РФ) бх",
+      "sku": "М 5019 1 540",
+      "price": "5019 1 540 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/vannaya/aksessuary_dlya_vannoy/nabory_dlya_vannoy/komplekt_dlya_tualeta_vyazanie_5019_rf_bkh/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 24
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 27
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 146
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Радмир кзам АОД подл.пл.818/1 (кзам),крест.пл.d680 м/п, кол JL",
+      "sku": "МП-ТВ-045153 66 775",
+      "price": "045153 66 775 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/igrovye_kresla/kreslo_radmir_kzam_aod_podl_pl_818_1_kzam_krest_pl_d680_m_p_kol_jl/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "SIDE Стакан для виски 6 шт 315 мл 1*4, 42884",
+      "sku": "42884 3 240",
+      "price": "42884 3 240 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/side_stakan_dlya_viski_6_sht_315_ml_1_4_42884/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 24
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо ДЮНА D255мм H 240мм 8,5л. арт. М 3400 (М-Пластика РФ) б/х",
+      "sku": "М 3400 3 720",
+      "price": "3400 3 720 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_dyuna_d255mm_h_240mm_8_5l_art_m_3400_rf_b_kh/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 8
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 7
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 10
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тумба ресторанная КУЛ-160/1 Z станд.цвета",
+      "sku": "КУЛ-00551 33 290",
+      "price": "00551 33 290 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/tumby_i_komody3/tumba_restorannaya_kul_160_1_z_stand_tsveta/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Декоративное изделие из фанеры - Шкатулка Дафни (230*180*165), м/п",
+      "sku": "МП-ТВ-947159 6 525",
+      "price": "947159 6 525 ₸",
+      "url": "https://astana.zeta.kz/catalog/dopolnitelno/dekor/kashpo_i_gorshki_dlya_tsvetov/dekorativnoe_izdelie_iz_fanery_shkatulka_dafni_230_180_165_m_p/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 55
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Ёмкость для продуктов ФРЕШ герметичная 1,4л М 1424 (М-пластика РФ)",
+      "sku": "арш-004104 1 140",
+      "price": "004104 1 140 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/yemkost_dlya_produktov_fresh_germetichnaya_1_4l_m_1424_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 12
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 14
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Ёмкость для продуктов ФРЕШ герметичная 2,3л М 1425 (М-пластика РФ)",
+      "sku": "арш-004105 1 720",
+      "price": "004105 1 720 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/yemkost_dlya_produktov_fresh_germetichnaya_2_3l_m_1425_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 23
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 38
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Сушилка - поддон М 1176 (М-пластика РФ)",
+      "sku": "М 1176 2 495",
+      "price": "1176 2 495 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/sushilki_dop/sushilka_poddon_m_1176_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 8
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 5
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Диспенсер для мыла ВЯЗАНИЕ М 2239 (М-Пластика РФ)",
+      "sku": "арш-004545 985",
+      "price": "004545 985 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/vannaya/aksessuary_dlya_vannoy/mylnitsy/dispenser_dlya_myla_vyazanie_m_2239_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 19
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 26
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "ENOTECA Фужер для вина 6 шт. 750 мл 1*4, 44248",
+      "sku": "44248 11 310",
+      "price": "44248 11 310 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/enoteca_fuzher_dlya_vina_6_sht_750_ml_1_4_44248/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 16
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф медицинский МД 2 1780/SS",
+      "sku": "S26199205009 120 000",
+      "price": "26199205009 120 000 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_2_1780_ss/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "ICE VILLE Ваза для мороженного 3 шт. 130 мм 1*8, 51078",
+      "sku": "51078 1 365",
+      "price": "51078 1 365 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/kremanki/ice_ville_vaza_dlya_morozhennogo_3_sht_130_mm_1_8_51078/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 9
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 13
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 23
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 52
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 8
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Контейнер для хранения 4л (салатовый,фиолетовый) М 2871 (М-Пластика РФ)",
+      "sku": "ПЛИ-014728 1 450",
+      "price": "014728 1 450 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/konteynery/konteynery_i_yashchiki/konteyner_dlya_khraneniya_4l_salatovyy_fioletovyy_m_2871_rf/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 14
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф Кул ШОК-1 500*550*2000 Н стандартные цвета",
+      "sku": "КУЛ-016276 57 035",
+      "price": "016276 57 035 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/shkafy_i_stellazhi4/shkaf_kul_shok_1_500_550_2000_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Комплект WC Soul (Репаблик РФ)",
+      "sku": "ПЛИ-016229 1 670",
+      "price": "016229 1 670 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/vannaya/aksessuary_dlya_vannoy/nabory_dlya_vannoy/komplekt_wc_quot_nature_quot_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 15
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 49
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 52
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 30
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тумба с полкой Кул-5 400*350*500 Н стандартные цвета",
+      "sku": "КУЛ-021461 14 295",
+      "price": "021461 14 295 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/tumby_i_komody3/tumba_s_polkoy_kul_5_400_350_500_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 12
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка стекл. KAVH 111 (И)",
+      "sku": "ПЛИ-022135 660",
+      "price": "022135 660 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_stekl_kavh_111_i/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 12
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 27
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 15
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 8
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для продуктов ПРАКТИК 0,25л М 1466(М-Пластика РФ)",
+      "sku": "ПЛИ-028571 285",
+      "price": "028571 285 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_produktov_praktik_0_25l_m_1466_rf/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 36
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 19
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для продуктов ПРАКТИК 0,45л М 1467 (М-Пластика РФ)",
+      "sku": "М 1467 355",
+      "price": "1467 355 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_produktov_praktik_0_45l_m_1467_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 56
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 21
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 31
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для продуктов ПРАКТИК 0,5л М 1468 (М-Пластика РФ)",
+      "sku": "М 1468 485",
+      "price": "1468 485 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_produktov_praktik_0_5l_m_1468_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 2
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 8
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 17
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 22
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 19
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 30
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для продуктов ПРАКТИК 1л М 1469(М-Пластика РФ)",
+      "sku": "ПЛИ-028574 585",
+      "price": "028574 585 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_produktov_praktik_1l_m_1469_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 7
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 15
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 33
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 43
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стеллаж MS 200KD/100x60/4",
+      "sku": "S24099246402 42 340",
+      "price": "24099246402 42 340 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/stellazh_ms_200kd_100x60_4/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стеллаж MS 200KD/100x50/4",
+      "sku": "S24099245402 37 600",
+      "price": "24099245402 37 600 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/stellazh_ms_200kd_100x50_4/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стеллаж MS 200KD/100x40/4",
+      "sku": "S24099244402 33 875",
+      "price": "24099244402 33 875 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/stellazh_ms_200kd_100x40_4/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стеллаж MS 200KD/100x30/4",
+      "sku": "S24099243402 29 480",
+      "price": "24099243402 29 480 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/stellazh_ms_200kd_100x30_4/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф для раздевалок усиленный ML/LS-22-60",
+      "sku": "S23099522102 88 065",
+      "price": "23099522102 88 065 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/shkaf_ls_22/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 2
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кровать Армейская 2-х ярусн (разборная) без ватного матраца (МДФ)",
+      "sku": "МП-ТВ-044651 60 165",
+      "price": "044651 60 165 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/krovati_parent_dop/krovati_dlya_uchrezhdeniy/krovat_armeyskaya_2_kh_yarusn_razbornaya_bez_vatnogo_matratsa_mdf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кровать детская двухъярус. металл. без ватного матраца. МДФ",
+      "sku": "МП-ТВ-044661 54 495",
+      "price": "044661 54 495 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/krovati_parent_dop/krovati_dlya_detey/krovat_detskaya_dvukhyarus_metall_bez_vatnogo_matratsa_mdf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кровать Шанырак 1-мест. (без ват. матр.) МДФ",
+      "sku": "МП-ТВ-044679 36 765",
+      "price": "044679 36 765 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/krovati_parent_dop/krovati_dlya_uchrezhdeniy/krovat_shanyrak_1_mest_bez_vat_matr_mdf/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кровать Шанырак 2-х ярусн без ватного матраца (МДФ)",
+      "sku": "МП-ТВ-044680 71 155",
+      "price": "044680 71 155 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/krovati_parent_dop/krovati_dlya_uchrezhdeniy/krovat_shanyrak_2_kh_yarusn_bez_vatnogo_matratsa_mdf/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо КАМНИ D150мм 1,4л (разн.цв) М 3172 (М-Пластика РФ)",
+      "sku": "ПЛИ-020753 1 080",
+      "price": "020753 1 080 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_kamni_d150mm_1_4l_razn_tsv_m_3172_rf/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 86
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо КАМНИ D180мм 2,6л (разн.цв) М 3173 (М-Пластика РФ)",
+      "sku": "ПЛИ-020756 1 640",
+      "price": "020756 1 640 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_kamni_d180mm_2_6l_razn_tsv_m_3173_rf/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 19
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф медицинский МД 1 1760/SG",
+      "sku": "S26199204509 113 000",
+      "price": "26199204509 113 000 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_1_1760_sg/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина Sina 2126 (И)",
+      "sku": "ПЛИ-04395 1 845",
+      "price": "04395 1 845 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/korziny_i_yashchiki/korzina_sina_2126_i/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 12
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Картотека A 44",
+      "sku": "S20299244102 168 215",
+      "price": "20299244102 168 215 ₸",
+      "url": "https://astana.zeta.kz/catalog/rabota/meditsina/metallicheskie_shkafy/kartoteka_a_44/",
+      "stock": [],
+      "image": ""
+    },
+    {
+      "name": "Емкость для СВЧ Bono квадратная 1,8 л (Репаблик РФ)",
+      "sku": "арш-003581 555",
+      "price": "003581 555 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_svch_bono_kvadratnaya_1_8_l_rf/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 39
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок для цветов InGreen London Orchid D160 мм,1,6 л с дренажной вставкой голубой перламутровый",
+      "sku": "ING1558ГЛПЕРЛ 1 695",
+      "price": "1 695 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_dlya_tsvetov_fidzhi_orkhid_d_160_mm_1_6_l_rf/",
+      "stock": [
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 6
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок для цветов InGreen London Orchid D230 мм, 5л с дренажной вставкой голубой перламутровый",
+      "sku": "ING1559ГЛПЕРЛ 3 385",
+      "price": "3 385 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_dlya_tsvetov_fidzhi_orkhid_d_230_mm_5_l_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 6
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 37
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 8
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Опрыскиватель РОСА 1л. мод. М 2152 (М-Пластика РФ)",
+      "sku": "М 2152 1 645",
+      "price": "2152 1 645 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/leyki/opryskivatel_rosa_1l_mod_m2152_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 23
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 82
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 48
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 36
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 18
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Набор контейнеров РАДУГА (5штук) Микс (разноцветный) М 1430 (М-пластика)",
+      "sku": "М 1430 3 155",
+      "price": "1430 3 155 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/nabor_konteynerov_raduga_5shtuk_miks_raznotsvetnyy_m_1430_rf/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 19
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 13
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Коробка ИНФИНИТИ 1,7л с крышкой М 2345 (М-пластика)",
+      "sku": "арш-003079 1 205",
+      "price": "003079 1 205 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/konteynery/konteynery_i_yashchiki/korobka_infiniti_1_7l_s_kryshkoy_m_2345_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 16
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Бахыт кзам АОД подл.пл.818 (кзам),крест.d680м/п, кол JL, ДДС",
+      "sku": "ПРК-029081 74 115",
+      "price": "029081 74 115 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/ofisnye_kresla/kreslo_bakhyt_kzam_aod_podl_pl_818_kzam_krest_d680m_p_kol_jl_dds/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо МОЗАИКА 3л 170х170х190мм М 3094 (М-Пластика РФ) б/х",
+      "sku": "ПЛИ-029597 4 200",
+      "price": "029597 4 200 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_mozaika_3l_170kh170kh190mm_m_3094_rf_b_kh/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 6
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 6
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 9
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 22
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Вильгельм кзам АОД подл.пл.818 (кзам),крест.пл.d680 м/п, кол JL, ДДС",
+      "sku": "ПРК-030820 70 660",
+      "price": "030820 70 660 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/rukovoditelskie_kresla/kreslo_vilgelm_kzam_aod_podl_pl_818_kzam_krest_pl_d680_m_p_kol_jl_dds/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для мелочей 3899 (ВИ)",
+      "sku": "ПЛИ-023604 515",
+      "price": "023604 515 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3899_vi/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 27
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 100
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 32
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Декоративное ограждение \"Стандарт\" цветное м/п",
+      "sku": "ПЛ-017383 855",
+      "price": "017383 855 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/ograzhdeniya_dekorativnye/dekorativnoe_ograzhdenie_quot_standart_quot_tsvetnoe_m_p/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 28
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 140
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 2
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 50
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 63
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 24
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф Кул ШОК-2 1000*520*2000 Н стандартные цвета",
+      "sku": "КУЛ-015297 75 240",
+      "price": "015297 75 240 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/shkafy_i_stellazhi4/shkaf_kul_shok_2_1000_520_2000_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 8
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для мелочей 3550 (ВИ)",
+      "sku": "ПЛИ-015833 860",
+      "price": "015833 860 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3550_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 3
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 13
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 26
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для мелочей 2976 (ВИ)",
+      "sku": "ПЛИ-015840 250",
+      "price": "015840 250 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_2976_vi/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 380
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для мелочей 3661 (ВИ)",
+      "sku": "ПЛИ-015842 340",
+      "price": "015842 340 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3661_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 5
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 29
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 83
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 28
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для мелочей 3662 (ВИ)",
+      "sku": "ПЛИ-015844 765",
+      "price": "015844 765 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3662_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 51
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 76
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 75
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 214
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 8
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для мелочей 3777 (ВИ)",
+      "sku": "ПЛИ-015849 615",
+      "price": "015849 615 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3777_vi/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 13
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 87
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Диван Vega \"3\" гоб.stock (с подушками) Multicolor",
+      "sku": "ММВ-03290 100 050",
+      "price": "03290 100 050 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/myagkaya_mebel/dlya_doma/divan_vega_quot_3_quot_gob_stock_s_podushkami/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Диван Немо \"3\" раскладной гоб.stock (с подушками)Multicolor",
+      "sku": "ММВ-03289 97 945",
+      "price": "03289 97 945 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/myagkaya_mebel/dlya_doma/divan_nemo_quot_3_quot_raskladnoy_gob_stock_s_podushkami/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка 10 мод DX0320 (ВИ)",
+      "sku": "ИМП-ТВ-063933 865",
+      "price": "063933 865 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_10_mod_dx0320_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 25
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка 9 мод DX0322 (ВИ)",
+      "sku": "ИМП-ТВ-063935 1 615",
+      "price": "063935 1 615 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_9_mod_dx0322_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 13
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 42
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка 9 мод DX0325 (ВИ)",
+      "sku": "ИМП-ТВ-063937 6 550",
+      "price": "063937 6 550 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_9_mod_dx0325_vi/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 97
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 155
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 56
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 20
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка 12 мод DX0312 (ВИ)",
+      "sku": "ИМП-ТВ-063940 1 460",
+      "price": "063940 1 460 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_12_mod_dx0312_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 136
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 104
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 275
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 200
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка 6 мод DX0082 (ВИ)",
+      "sku": "ИМП-ТВ-063941 270",
+      "price": "063941 270 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_6_mod_dx0082_vi/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 12
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка 7 мод DX0083 (ВИ)",
+      "sku": "ИМП-ТВ-063942 380",
+      "price": "063942 380 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_7_mod_dx0083_vi/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 48
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Чаша 4 мод DX0028 (ВИ)",
+      "sku": "ИМП-ТВ-063950 225",
+      "price": "063950 225 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/chasha_4_mod_dx0028_vi/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 231
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Чаша 4,5 мод DX0018 (ВИ)",
+      "sku": "ИМП-ТВ-063951 245",
+      "price": "063951 245 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/chasha_4_5_mod_dx0018_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 200
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 178
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 100
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Чаша 4,5 мод DX0020 (ВИ)",
+      "sku": "ИМП-ТВ-063958 270",
+      "price": "063958 270 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/chasha_4_5_mod_dx0020_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 38
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 84
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка фигурная 11 мод DX0394 (ВИ)",
+      "sku": "ИМП-ТВ-063968 1 010",
+      "price": "063968 1 010 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_figurnaya_11_mod_dx0394_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 261
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 242
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 176
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 27
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка треугольная 9 мод DX0495 (ВИ)",
+      "sku": "ИМП-ТВ-063971 1 205",
+      "price": "063971 1 205 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_treugolnaya_9_mod_dx0495_vi/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 33
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 112
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан стеклянный 957 KAVEH (И)",
+      "sku": "ИМП-ТВ-055429 220",
+      "price": "055429 220 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/stakan_steklyannyy_957_kaveh_i/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 11
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 28
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Органайзер для кухни (разн.цв) М 1178 (М-Пластика РФ)",
+      "sku": "М 1178 2 230",
+      "price": "1178 2 230 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/sushilki_dop/organayzer_dlya_kukhni_razn_tsv_m_1178_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 8
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 3
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 14
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 9
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 6
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Балконный ящик РОТАНГ 400 (разн.цв.) М 3225 (М-Пластика РФ) б/х",
+      "sku": "ПЛИ-08649 2 330",
+      "price": "08649 2 330 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/balkonnyy_yashchik_rotang_400_razn_tsv_m_3225_rf_b_kh/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 10
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Мастерок вальц.тр. м/п краш",
+      "sku": "PTZ-00488 1 445",
+      "price": "00488 1 445 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/sadovyy_inventar/masterok_valts_tr_m_p_krash/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 17
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 26
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан стеклянный KAVH 425 (И)",
+      "sku": "ПЛИ-08677 250",
+      "price": "08677 250 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/stakan_steklyannyy_kavh_425_i/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 17
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Декоративное ограждение \"Стандарт\" м/п",
+      "sku": "ПЛ-00046 705",
+      "price": "00046 705 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/ograzhdeniya_dekorativnye/dekorativnoe_ograzhdenie_quot_standart_quot_m_p/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 18
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 6
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 42
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 9
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 29
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 16
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Комплект для рассады (18 стак.) м/п",
+      "sku": "ПЛ-00049 4 615",
+      "price": "00049 4 615 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/komplekt_dlya_rassady_18_stak_m_p/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 29
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 9
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 57
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 13
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 106
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 15
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Сейф T-17",
+      "sku": "S10399250114 20 800",
+      "price": "10399250114 20 800 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_17/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 2
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Сейф T-17.EL",
+      "sku": "S10399250414 34 320",
+      "price": "10399250414 34 320 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_17_el/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 6
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Сейф T-23",
+      "sku": "S10399260114 31 200",
+      "price": "10399260114 31 200 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_23/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Сейф T-23.EL",
+      "sku": "S10399260414 41 600",
+      "price": "10399260414 41 600 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_23_el/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 6
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 3
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Сейф T-28",
+      "sku": "S10399270114 41 600",
+      "price": "10399270114 41 600 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_28/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 3
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Сейф T-28.EL",
+      "sku": "S10399270414 52 000",
+      "price": "10399270414 52 000 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_28_el/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Сейф T-40",
+      "sku": "S10399280114 57 200",
+      "price": "10399280114 57 200 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_40/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 1
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Сейф T-40.EL",
+      "sku": "S10399280414 68 640",
+      "price": "10399280414 68 640 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_40_el/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Георешетка м/п",
+      "sku": "ПЛ-00220 1 400",
+      "price": "00220 1 400 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/sadovyy_inventar/georeshetka_m_p/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 5
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 3
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 26
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 23
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 9
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Маджестик (мет.каркас) подл.пл.Сенатор,крест.пл. гобелен,кзам multi color",
+      "sku": "ПРК-00020 45 845",
+      "price": "00020 45 845 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/rukovoditelskie_kresla/kreslo_madzhestik_met_karkas_gobelen_kzam_podl_pl_senator_krest_pl/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 7
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "KOSEM Стопка для водки 6 шт. 60сс 1*12, 41070",
+      "sku": "41070 (6) 2 295",
+      "price": "2 295 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/kosem_stopka_dlya_vodki_6_sht_60ss_1_12_41070/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 48
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф для раздевалок Стандарт LS-21",
+      "sku": "S23099521102 71 240",
+      "price": "23099521102 71 240 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/shkaf_dlya_razdevalok_ls_21/",
+      "stock": [],
+      "image": ""
+    },
+    {
+      "name": "ICE VILLE Ваза для мороженного 3 шт. 118 мм 1*8, 51068",
+      "sku": "51068 2 655",
+      "price": "51068 2 655 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/kremanki/ice_ville_vaza_dlya_morozhennogo_3_sht_118_mm_1_8_51068/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 7
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 6
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 8
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 32
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 12
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан CASABLANCA для виски 6 шт. 360 мл 1*4, 52704",
+      "sku": "52704 (6) 3 100",
+      "price": "3 100 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/casablanca_stakan_dlya_soka_6_sht_360_ml_1_8_52704/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 5
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 16
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стакан CASABLANCA для виски 6 шт. 265 мм 1*4, 52705",
+      "sku": "52705 (6) 3 930",
+      "price": "3 930 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/casablanca_stakan_dlya_viski_6_sht_265_mm_1_4_52705/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 7
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф медицинский МД 1 1760/SS",
+      "sku": "S26199204009 117 520",
+      "price": "26199204009 117 520 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_1_1760_ss/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина 3923 (ВИ)",
+      "sku": "арш-002607 725",
+      "price": "002607 725 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/korziny_i_yashchiki/korzina_3923_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 34
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 6
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Пепельница BISTRO 2 шт. 170 мм 1*12, 54036",
+      "sku": "54036 (2) 600",
+      "price": "600 ₸",
+      "url": "https://astana.zeta.kz/catalog/rabota/kafe_i_restorany/pepelnitsy2/bistro_pepelnitsa_2_sht_170_mm_1_12_54036/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 16
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка 9 мод DX0324 (ВИ)",
+      "sku": "ИМП-ТВ-063202 4 210",
+      "price": "063202 4 210 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_9_mod_dx0324_vi/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 74
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 11
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 27
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка треугольная 9 мод DX0474 (ВИ)",
+      "sku": "ИМП-ТВ-063217 1 335",
+      "price": "063217 1 335 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_treugolnaya_9_mod_dx0474_vi/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 285
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "ENOTECA Фужер для красного вина 6 шт. 590 мм 1*4, 44738",
+      "sku": "44738 10 645",
+      "price": "44738 10 645 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/enoteca_fuzher_dlya_krasnogo_vina_6_sht_590_mm_1_4_44738/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 10
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 8
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 10
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 11
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кувшин DANCE 1600 мл 1*6, 43374",
+      "sku": "43374 2 775",
+      "price": "43374 2 775 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/kuvshiny_i_grafiny/dance_kuvshin_1600_ml_1_6_43374/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 10
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 39
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Мажор кзам АОД подл.пл.818 (кзам),крест.пл.d680 м/п, кол JL, ДДС",
+      "sku": "МП-ТВ-043256 76 170",
+      "price": "043256 76 170 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/rukovoditelskie_kresla/kreslo_mazhor_kzam_aod_podl_pl_818_kzam_krest_pl_d680_m_p_kol_jl_dds/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кашпо Дюна (d340мм,h630мм) 9/42л со вставкой М 3402 (М-Пластика РФ) б/х",
+      "sku": "М 3402 10 280",
+      "price": "3402 10 280 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_dyuna_d340mm_h630mm_9_42l_so_vstavkoy_m3402_rf_b_kh/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 2
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Набор мисок РАДУГА 5шт М1308 (М-Пластика РФ)",
+      "sku": "ИМП-ТВ-058283 2 195",
+      "price": "058283 2 195 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/salatniki/nabor_misok_raduga_5sht_m1308_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 11
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 11
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 13
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 8
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 22
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф медицинский МД 2 1780/SG",
+      "sku": "S26199205509 118 000",
+      "price": "26199205509 118 000 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_2_1780_sg/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф M-18",
+      "sku": "S20499380302 98 800",
+      "price": "20499380302 98 800 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/shkaf_m_18/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для сыпучих продуктов квадратная 1л М 1223 (разные цвета) (М-Пластика РФ)",
+      "sku": "ПЛИ-012118 565",
+      "price": "012118 565 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_sypuchikh_produktov_kvadratnaya_1l_m_1223_raznye_tsveta_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 22
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "CASABLANCA Стопка для водки 6шт. 37 мм. 1*12, 52734",
+      "sku": "52734 (6) 2 585",
+      "price": "2 585 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stakany_bokaly_i_ryumki/casablanca_stopka_dlya_vodki_6sht_37_mm_1_12_52734/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 26
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для продуктов прямоугольная 4л М 1455 (М-Пластика-РФ) б/х",
+      "sku": "М 1455 1 685",
+      "price": "1455 1 685 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_produktov_pryamougolnaya_4l_m_1455_rf_b_kh/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 11
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 11
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 28
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Лоток-вкладыш для столовых приборов сетчатный 2-х уров.. М 1146 (М-Пластика РФ)бх",
+      "sku": "М 1146 2 360",
+      "price": "1146 2 360 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/sushilki_dop/lotok_vkladysh_dlya_stolovykh_priborov_setchatnyy_2_kh_urov_m_1146_rf_bkh/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 4
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 11
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Комплект для туалета СТАР М 5017 (разн.цв) (М-Пластика РФ)",
+      "sku": "М 5017 1 520",
+      "price": "5017 1 520 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/vannaya/aksessuary_dlya_vannoy/nabory_dlya_vannoy/komplekt_dlya_tualeta_star_m_5017_razn_tsv_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 10
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 12
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Комплект WC закрытый Step небесный (Репаблик-РФ)",
+      "sku": "SV4028НБС 1 875",
+      "price": "1 875 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/vannaya/aksessuary_dlya_vannoy/nabory_dlya_vannoy/komplekt_wc_zakrytyy_quot_kvadra_quot_rf/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 9
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Деко гобелен,кзам подл.пл.Сенатор,крест.пл.",
+      "sku": "ПРК-12833 52 320",
+      "price": "12833 52 320 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/rukovoditelskie_kresla/kreslo_deko_gobelen_kzam_podl_pl_senator_krest_pl/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 2
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Мини-Гранде пневмо гобелен, кзам. пластик Multicolor",
+      "sku": "ОФК-02003 14 420",
+      "price": "02003 14 420 ₸",
+      "url": "https://astana.zeta.kz/catalog/rabota/meditsina/mebel_dop/kreslo_mini_grande_pnevmo_gobelen_kzam_plastik/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 5
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Мини-Гранде пневмо с 1 подл. гобелен, кзам. пластик",
+      "sku": "ОФК-02019 27 525",
+      "price": "02019 27 525 ₸",
+      "url": "https://astana.zeta.kz/catalog/rabota/meditsina/mebel_dop/kreslo_mini_grande_pnevmo_s_1_podl_gobelen_kzam_plastik/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 20
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Кресло Престиж Н гобелен, кзам. пластик",
+      "sku": "ОФК-02272 29 345",
+      "price": "02272 29 345 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/kresla/ofisnye_kresla/kreslo_prestizh_n_gobelen_kzam_plastik/",
+      "stock": [
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 2
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тумба прикроватная Кул-3 400*350*500 Н стандартные цвета",
+      "sku": "КУЛ-00097 14 470",
+      "price": "00097 14 470 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/tumby_i_komody3/tumba_prikrovatnaya_kul_3_400_350_500_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 2
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф узкий Кул-120 450*350*1500 Н стандартные цвета",
+      "sku": "КУЛ-00209 22 915",
+      "price": "00209 22 915 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/shkafy_i_stellazhi4/shkaf_uzkiy_kul_120_450_350_1500_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 3
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стеллаж открытый Кул-122 800*350*2000 Н стандартные цвета",
+      "sku": "КУЛ-00217 32 325",
+      "price": "00217 32 325 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/shkafy_i_stellazhi4/stellazh_otkrytyy_kul_122_800_350_2000_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 4
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 7
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 10
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 11
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 2
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Стеллаж широкий Кул-123 800*350*2000 Н стандартные цвета",
+      "sku": "КУЛ-00225 41 090",
+      "price": "00225 41 090 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/shkafy_i_stellazhi4/stellazh_shirokiy_kul_123_800_350_2000_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 13
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 13
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 17
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф для одежды Кул-125 700*500*2000 Н стандартные цвета",
+      "sku": "КУЛ-00233 47 360",
+      "price": "00233 47 360 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/shkafy_i_stellazhi4/shkaf_dlya_odezhdy_kul_125_700_500_2000_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 6
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 2
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 13
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 9
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф для одежды Кул-125/1 800*500*2000 Н стандартные цвета",
+      "sku": "КУЛ-00237 63 290",
+      "price": "00237 63 290 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/shkafy_i_stellazhi4/shkaf_dlya_odezhdy_kul_125_1_800_500_2000_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 10
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 3
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Шкаф для одежды Кул-126 400*500*2000 Н стандартные цвета",
+      "sku": "КУЛ-00241 35 350",
+      "price": "00241 35 350 ₸",
+      "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/shkafy_i_stellazhi4/shkaf_dlya_odezhdy_kul_126_400_500_2000_n_standartnye_tsveta/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок для цветов Борнео D 190 mm, 2,1л с подставкой №3 мраморный (Репаблик-РФ)",
+      "sku": "ING42019FМР 1 160",
+      "price": "1 160 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_dlya_tsvetov_borneo_d_190_mm_s_podstavkoy_3_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 23
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 117
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 70
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 31
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 24
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок для цветов Борнео D 210 mm, 2,9л с подставкой №4 мраморный (Репаблик РФ)",
+      "sku": "ING42021FМР 1 440",
+      "price": "1 440 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_dlya_tsvetov_borneo_d_210_mm_s_podstavkoy_4_repablik_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 40
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 115
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 103
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 33
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 136
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Горшок для цветов Борнео D 240 mm, 4,4л с подставкой №5 мраморный (Репаблик РФ)",
+      "sku": "ING42024FМР 2 020",
+      "price": "2 020 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_dlya_tsvetov_borneo_d_240_mm_s_podstavkoy_5_rf/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 10
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 76
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 65
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 49
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 58
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Щетка Gulchin 510 (И)",
+      "sku": "ПЛИN-02439 1 400",
+      "price": "02439 1 400 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/uborka_pomeshcheniya/shvabry/shchetka_gulchin_510_i/",
+      "stock": [
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 121
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для белья Diqat 105 (И)",
+      "sku": "ПЛИN-02332 2 550",
+      "price": "02332 2 550 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/vannaya/ukhod_za_odezhdoy/korziny_dlya_belya/korzina_dlya_belya_diqat_105_i/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 24
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Тарелка заколка 15 DX0396 (ВИ)",
+      "sku": "МТ-ТВ-045679 2 270",
+      "price": "045679 2 270 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_zakolka_15_dx0396_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 52
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 291
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 166
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 44
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Мини-знак из фанеры 10*10 Handmade (м/п)",
+      "sku": "ИМП-020881 100",
+      "price": "020881 100 ₸",
+      "url": "https://astana.zeta.kz/catalog/dopolnitelno/dekor/informatsionnye_tablichki2/mini_znak_iz_fanery_10_10_handmade_m_p/",
+      "stock": [
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 31
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для мелочей 3722 (ВИ)",
+      "sku": "ПЛИ-010588 1 010",
+      "price": "010588 1 010 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3722_vi/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 58
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 162
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 257
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 3/3",
+          "qty": 25
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для мелочей 3569 (ВИ)",
+      "sku": "ПЛИ-010693 255",
+      "price": "010693 255 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3569_vi/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 23
+        }
+      ],
+      "image": ""
+    }
+  ]
+}
