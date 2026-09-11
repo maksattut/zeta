@@ -1,0 +1,37 @@
+name: Update ZETA catalog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Scrape official ZETA Astana catalog
+        env:
+          MAX_PAGES: '20'
+          MAX_PRODUCTS: '250'
+          DELAY: '0.35'
+        run: python scripts/scrape_zeta.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name 'zeta-mvp-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data.json
+          git diff --cached --quiet || git commit -m 'Update ZETA catalog data'
+          git push
