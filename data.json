@@ -1,7 +1,7 @@
 {
   "source": "https://astana.zeta.kz",
   "city": "Астана",
-  "updatedAt": "2026-09-24T08:31:00Z",
+  "updatedAt": "2026-09-25T08:51:44Z",
   "products": [
     {
       "name": "LACY Блюдо на ножке 300мм 1*4, 96770",
@@ -71,6 +71,30 @@
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
           "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"ЦАРИЦА ЦВЕТОВ\" для орхидей 2,5л",
+      "sku": "H00000001503 1 090",
+      "price": "00000001503 1 090 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_orkhidey_2_5l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 30
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 31
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 20
         }
       ],
       "image": ""
@@ -156,7 +180,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 14
+          "qty": 12
         }
       ],
       "image": ""
@@ -330,6 +354,78 @@
       "image": ""
     },
     {
+      "name": "Дренаж Фаско цветочное счастье крупный 2 л",
+      "sku": "Н0000001612 705",
+      "price": "0000001612 705 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/drenazh_fasko_tsvetochnoe_schaste_krupnyy_2_l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 120
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 121
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 118
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Дренаж Фаско цветочное счастье крупный 1 л",
+      "sku": "Н0000001613 440",
+      "price": "0000001613 440 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/drenazh_fasko_tsvetochnoe_schaste_krupnyy_1_l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 120
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 120
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 120
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"ЦАРИЦА ЦВЕТОВ\" для фикусов и пальм 5л",
+      "sku": "H00000001504 800",
+      "price": "00000001504 800 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_fikusov_i_palm_5l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 30
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 30
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 20
+        }
+      ],
+      "image": ""
+    },
+    {
       "name": "Блюдо TOSCANA круглое 303мм 1*6 10596",
       "sku": "10596 1 510",
       "price": "10596 1 510 ₸",
@@ -358,7 +454,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 64
+          "qty": 62
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -382,7 +478,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 4
+          "qty": 3
         },
         {
           "store": "шоссе Алаш 15",
@@ -393,6 +489,97 @@
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
           "qty": 6
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"ЦАРИЦА ЦВЕТОВ\" для комнатных, оранжерейных и декоративных цветов и растений 2,5л",
+      "sku": "H0000001500 545",
+      "price": "0000001500 545 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_komnatnykh_oranzhereynykh_i_dekorativnykh_tsvetov_i_rasteniy_2/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 50
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 50
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 50
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"САМ СЕБЕ АГРОНОМ\" универсальный 10л",
+      "sku": "ИМП-ТВ-048106 1 065",
+      "price": "048106 1 065 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/grunt_quot_sam_sebe_agronom_quot_universalnyy_10l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 30
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 30
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 30
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"САМ СЕБЕ АГРОНОМ\" универсальный 20л",
+      "sku": "ИМП-ТВ-048107 1 910",
+      "price": "048107 1 910 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/grunt_quot_sam_sebe_agronom_quot_universalnyy_20l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 30
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 29
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 29
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"САМ СЕБЕ АГРОНОМ\" универсальный 50л.",
+      "sku": "ИМП-ТВ-048108 4 340",
+      "price": "048108 4 340 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/grunt_quot_sam_sebe_agronom_quot_universalnyy_50l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 10
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 10
         }
       ],
       "image": ""
@@ -432,6 +619,30 @@
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
           "qty": 20
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Дренаж Огородник крупный 10л.",
+      "sku": "Н0000001069 2 415",
+      "price": "0000001069 2 415 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/drenazh_quot_ogorodnik_quot_krupnyy_10l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 30
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 30
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 19
         }
       ],
       "image": ""
@@ -493,7 +704,7 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 267
+          "qty": 266
         },
         {
           "store": "Сатпаева 18",
@@ -503,7 +714,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 316
+          "qty": 306
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -600,6 +811,25 @@
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
           "qty": 11
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"САМ СЕБЕ АГРОНОМ\" цветочный 50л.",
+      "sku": "ИМП-ТВ-052055 4 490",
+      "price": "052055 4 490 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_sam_sebe_agronom_quot_tsvetochnyy_50l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 10
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 10
         }
       ],
       "image": ""
@@ -772,20 +1002,102 @@
       "image": ""
     },
     {
-      "name": "Кресло М Норма Н гобелен,кзам подл.пласт.,крест.пласт.",
-      "sku": "ОФК-01721 30 075",
-      "price": "01721 30 075 ₸",
-      "url": "https://astana.zeta.kz/catalog/mebel/kresla/ofisnye_kresla/kreslo_m_norma_n_gobelen_kzam_podl_plast_krest_plast/",
+      "name": "Грунт \"Универсальный для цветов\" 5л",
+      "sku": "00000002006 745",
+      "price": "00000002006 745 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_universalnyy_dlya_tsvetov_quot_5l/",
       "stock": [
         {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 2
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 70
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 70
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 67
         },
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
           "qty": 1
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"Универсальный для цветов\"10л",
+      "sku": "ИМП-ПМ-000028 1 110",
+      "price": "000028 1 110 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_universalnyy_dlya_tsvetov_quot_10l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 52
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 40
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 40
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"Универсальный для цветов\"20л",
+      "sku": "00000002008 2 025",
+      "price": "00000002008 2 025 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_universalnyy_dlya_tsvetov_quot_20l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 30
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 30
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 30
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"САМ СЕБЕ АГРОНОМ\" цветочный 5л",
+      "sku": "Н0000001495 690",
+      "price": "0000001495 690 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_sam_sebe_agronom_quot_tsvetochnyy_5l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 50
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 50
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 50
         }
       ],
       "image": ""
@@ -1012,6 +1324,54 @@
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
           "qty": 22
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"САМ СЕБЕ АГРОНОМ\" универсальный 5л",
+      "sku": "ИМП-ТВ-048109 640",
+      "price": "048109 640 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/grunt_quot_sam_sebe_agronom_quot_universalnyy_5l/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 70
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 70
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 70
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Грунт \"ЦАРИЦА ЦВЕТОВ\" для комнатных, оранжерейных и декоративных цветов и растений 5л.",
+      "sku": "ИМП-ТВ-048110 755",
+      "price": "048110 755 ₸",
+      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_komnatnykh_oranzhereynykh_i_dekorativnykh_tsvetov_i_rasteniy_5/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 50
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 50
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 50
         }
       ],
       "image": ""
@@ -1703,7 +2063,7 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 19
+          "qty": 18
         },
         {
           "store": "Сатпаева 18",
@@ -1946,7 +2306,7 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 9
+          "qty": 8
         },
         {
           "store": "Сатпаева 18",
@@ -2278,7 +2638,7 @@
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 38
+          "qty": 35
         },
         {
           "store": "шоссе Алаш 15",
@@ -2759,6 +3119,11 @@
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_2_1780_ss/",
       "stock": [
         {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 3
+        },
+        {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
           "qty": 1
@@ -2828,7 +3193,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 5
+          "qty": 4
         }
       ],
       "image": ""
@@ -3600,7 +3965,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 77
+          "qty": 76
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -3835,7 +4200,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 37
+          "qty": 35
         }
       ],
       "image": ""
@@ -3892,7 +4257,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 50
+          "qty": 34
         }
       ],
       "image": ""
@@ -4008,7 +4373,7 @@
         {
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
-          "qty": 6
+          "qty": 5
         }
       ],
       "image": ""
@@ -4275,11 +4640,6 @@
       "price": "10399270114 41 600 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_28/",
       "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 1
-        },
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
@@ -4551,7 +4911,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 16
+          "qty": 15
         }
       ],
       "image": ""
@@ -4575,7 +4935,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 26
+          "qty": 24
         }
       ],
       "image": ""
@@ -4889,7 +5249,7 @@
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 2
+          "qty": 6
         }
       ],
       "image": ""
@@ -4985,17 +5345,17 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 38
+          "qty": 36
         },
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 8
+          "qty": 6
         },
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 6
+          "qty": 5
         }
       ],
       "image": ""
@@ -5024,7 +5384,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 19
+          "qty": 17
         },
         {
           "store": "шоссе Алаш 15",
@@ -5072,7 +5432,7 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 20
+          "qty": 16
         },
         {
           "store": "Сатпаева 18",
@@ -5151,371 +5511,6 @@
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
           "qty": 136
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Горшок для цветов Борнео D 240 mm, 4,4л с подставкой №5 мраморный (Репаблик РФ)",
-      "sku": "ING42024FМР 2 020",
-      "price": "2 020 ₸",
-      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/gorshok_dlya_tsvetov_borneo_d_240_mm_s_podstavkoy_5_rf/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 10
-        },
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 76
-        },
-        {
-          "store": "Бараева 2Б «Z-Home»",
-          "address": "Бараева",
-          "qty": 65
-        },
-        {
-          "store": "Сатпаева 18",
-          "address": "Сатпаева 18",
-          "qty": 49
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 58
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Щетка Gulchin 510 (И)",
-      "sku": "ПЛИN-02439 1 400",
-      "price": "02439 1 400 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/uborka_pomeshcheniya/shvabry/shchetka_gulchin_510_i/",
-      "stock": [
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 121
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Корзина для белья Diqat 105 (И)",
-      "sku": "ПЛИN-02332 2 550",
-      "price": "02332 2 550 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/vannaya/ukhod_za_odezhdoy/korziny_dlya_belya/korzina_dlya_belya_diqat_105_i/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 30
-        },
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 20
-        },
-        {
-          "store": "Бараева 2Б «Z-Home»",
-          "address": "Бараева",
-          "qty": 11
-        },
-        {
-          "store": "Сатпаева 18",
-          "address": "Сатпаева 18",
-          "qty": 18
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 31
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Тарелка заколка 15 DX0396 (ВИ)",
-      "sku": "МТ-ТВ-045679 2 270",
-      "price": "045679 2 270 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/stolovaya_posuda/stolovaya_posuda/tarelka_zakolka_15_dx0396_vi/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 52
-        },
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 291
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 166
-        },
-        {
-          "store": "Коргалжынское шоссе 13/3",
-          "address": "Коргалжынское шоссе 13/3",
-          "qty": 44
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Мини-знак из фанеры 10*10 Handmade (м/п)",
-      "sku": "ИМП-020881 100",
-      "price": "020881 100 ₸",
-      "url": "https://astana.zeta.kz/catalog/dopolnitelno/dekor/informatsionnye_tablichki2/mini_znak_iz_fanery_10_10_handmade_m_p/",
-      "stock": [
-        {
-          "store": "Бараева 2Б «Z-Home»",
-          "address": "Бараева",
-          "qty": 31
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Корзина для мелочей 3722 (ВИ)",
-      "sku": "ПЛИ-010588 1 010",
-      "price": "010588 1 010 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3722_vi/",
-      "stock": [
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 57
-        },
-        {
-          "store": "Бараева 2Б «Z-Home»",
-          "address": "Бараева",
-          "qty": 161
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 254
-        },
-        {
-          "store": "Коргалжынское шоссе 13/3",
-          "address": "Коргалжынское шоссе 13/3",
-          "qty": 25
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Корзина для мелочей 3569 (ВИ)",
-      "sku": "ПЛИ-010693 255",
-      "price": "010693 255 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3569_vi/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 20
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Лоток-вкладыш для столовых приборов сетчатный М 1142 (разн.цв) (М-Пластика РФ)",
-      "sku": "ПЛИ-06049 890",
-      "price": "06049 890 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/sushilki_dop/lotok_vkladysh_dlya_stolovykh_priborov_setchatnyy_m_1142_razn_tsv_rf/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 78
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 16
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Масленка КРИСТАЛЛ М 1126 (М-Пластика РФ) *",
-      "sku": "ПЛИ-06058 665",
-      "price": "06058 665 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/maslenki/maslenka_kristall_m_1126_rf_/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 44
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Сушилка для посуды БОЛЬШАЯ М 1169 (разн.цв) (М-Пластика РФ)",
-      "sku": "М 1169 2 925",
-      "price": "1169 2 925 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/sushilki_dop/sushilka_dlya_posudy_bolshaya_m_1169_razn_tsv_rf/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 1
-        },
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 39
-        },
-        {
-          "store": "Бараева 2Б «Z-Home»",
-          "address": "Бараева",
-          "qty": 47
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 9
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Емкость для сыпучих продуктов 0,9л М 1220 (М-Пластика РФ) б/х",
-      "sku": "М 1220 795",
-      "price": "1220 795 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_sypuchikh_produktov_0_9l_m_1220_rf_b_kh/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 141
-        },
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 52
-        },
-        {
-          "store": "Бараева 2Б «Z-Home»",
-          "address": "Бараева",
-          "qty": 56
-        },
-        {
-          "store": "Сатпаева 18",
-          "address": "Сатпаева 18",
-          "qty": 47
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 79
-        },
-        {
-          "store": "Коргалжынское шоссе 13/3",
-          "address": "Коргалжынское шоссе 13/3",
-          "qty": 7
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Емкость для сыпучих продуктов 1,5л М 1221 (М-Пластика РФ) б/х",
-      "sku": "М 1221 995",
-      "price": "1221 995 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_sypuchikh_produktov_1_5l_m_1221_rf_b_kh/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 27
-        },
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 16
-        },
-        {
-          "store": "Бараева 2Б «Z-Home»",
-          "address": "Бараева",
-          "qty": 13
-        },
-        {
-          "store": "Сатпаева 18",
-          "address": "Сатпаева 18",
-          "qty": 41
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 34
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Контейнер для мусора с педалью 7л (разн.цв) М 2890 (М-Пластика РФ)",
-      "sku": "ПЛИ-06165 3 230",
-      "price": "06165 3 230 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/uborka_pomeshcheniya/musornye_vedra/konteyner_dlya_musora_s_pedalyu_7l_razn_tsv_m_2890_rf/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 12
-        },
-        {
-          "store": "Бараева 2Б «Z-Home»",
-          "address": "Бараева",
-          "qty": 2
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 2
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Щетка-сметка и совок с резинкой СТАНДАРТ (разн.цв) М 5173 (М-Пластика РФ)",
-      "sku": "ПЛИ-06167 1 190",
-      "price": "06167 1 190 ₸",
-      "url": "https://astana.zeta.kz/catalog/ulitsa/uborka_territorii/veniki_i_sovki_dop/shchetka_smetka_i_sovok_s_rezinkoy_standart_razn_tsv_m_5173_rf/",
-      "stock": [
-        {
-          "store": "Бараева 2Б «Z-Home»",
-          "address": "Бараева",
-          "qty": 8
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 2
-        },
-        {
-          "store": "Коргалжынское шоссе 13/3",
-          "address": "Коргалжынское шоссе 13/3",
-          "qty": 1
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Решетка в раковину квадратная 30х30см М 1151 (М-Пластика РФ) бх",
-      "sku": "М 1151 385",
-      "price": "1151 385 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/raznoe/reshetka_v_rakovinu_kvadratnaya_30kh30sm_m_1151_rf_bkh/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 20
         }
       ],
       "image": ""
