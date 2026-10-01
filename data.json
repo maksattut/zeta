@@ -1,7 +1,7 @@
 {
   "source": "https://astana.zeta.kz",
   "city": "Астана",
-  "updatedAt": "2026-09-30T09:45:03Z",
+  "updatedAt": "2026-10-01T10:11:01Z",
   "products": [
     {
       "name": "LACY Блюдо на ножке 300мм 1*4, 96770",
@@ -81,6 +81,11 @@
       "price": "00000001503 1 090 ₸",
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_orkhidey_2_5l/",
       "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 20
+        },
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
@@ -370,24 +375,29 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/drenazh_fasko_tsvetochnoe_schaste_krupnyy_2_l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 60
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 103
+          "qty": 101
         },
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 107
+          "qty": 106
         },
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 89
+          "qty": 86
         },
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 106
+          "qty": 105
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -404,6 +414,11 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/drenazh_fasko_tsvetochnoe_schaste_krupnyy_1_l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 60
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
           "qty": 101
@@ -411,17 +426,17 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 112
+          "qty": 111
         },
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 109
+          "qty": 108
         },
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 117
+          "qty": 114
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -438,6 +453,11 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_fikusov_i_palm_5l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 20
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
           "qty": 26
@@ -445,12 +465,12 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 8
+          "qty": 7
         },
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 5
+          "qty": 4
         },
         {
           "store": "шоссе Алаш 15",
@@ -460,7 +480,7 @@
         {
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
-          "qty": 6
+          "qty": 5
         }
       ],
       "image": ""
@@ -540,6 +560,11 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_komnatnykh_oranzhereynykh_i_dekorativnykh_tsvetov_i_rasteniy_2/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 20
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
           "qty": 47
@@ -547,7 +572,7 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 49
+          "qty": 48
         },
         {
           "store": "Сатпаева 18",
@@ -574,19 +599,24 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/grunt_quot_sam_sebe_agronom_quot_universalnyy_10l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 29
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 18
+          "qty": 17
         },
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 27
+          "qty": 25
         },
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 27
+          "qty": 25
         },
         {
           "store": "шоссе Алаш 15",
@@ -608,9 +638,14 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/grunt_quot_sam_sebe_agronom_quot_universalnyy_20l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 30
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 13
+          "qty": 12
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -625,7 +660,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 22
+          "qty": 20
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -642,9 +677,14 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/grunt_quot_sam_sebe_agronom_quot_universalnyy_50l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 8
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 9
+          "qty": 8
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -705,9 +745,14 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/drenazh_quot_ogorodnik_quot_krupnyy_10l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 20
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 23
+          "qty": 22
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -717,7 +762,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 16
+          "qty": 15
         },
         {
           "store": "шоссе Алаш 15",
@@ -727,7 +772,7 @@
         {
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
-          "qty": 9
+          "qty": 8
         }
       ],
       "image": ""
@@ -794,17 +839,17 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 241
+          "qty": 237
         },
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 288
+          "qty": 286
         },
         {
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
-          "qty": 334
+          "qty": 331
         }
       ],
       "image": ""
@@ -907,9 +952,14 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_sam_sebe_agronom_quot_tsvetochnyy_50l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 9
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 7
+          "qty": 6
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -933,7 +983,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 10
+          "qty": 8
         },
         {
           "store": "шоссе Алаш 15",
@@ -1014,7 +1064,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 35
+          "qty": 34
         }
       ],
       "image": ""
@@ -1098,6 +1148,11 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_universalnyy_dlya_tsvetov_quot_5l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 30
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
           "qty": 66
@@ -1105,12 +1160,12 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 69
+          "qty": 67
         },
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 51
+          "qty": 46
         },
         {
           "store": "шоссе Алаш 15",
@@ -1132,29 +1187,34 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_universalnyy_dlya_tsvetov_quot_10l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 30
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 46
+          "qty": 44
         },
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 31
+          "qty": 30
         },
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 30
+          "qty": 28
         },
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 30
+          "qty": 29
         },
         {
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
-          "qty": 7
+          "qty": 6
         }
       ],
       "image": ""
@@ -1166,9 +1226,14 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_universalnyy_dlya_tsvetov_quot_20l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 10
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 25
+          "qty": 23
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -1178,7 +1243,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 15
+          "qty": 12
         },
         {
           "store": "шоссе Алаш 15",
@@ -1200,6 +1265,11 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_sam_sebe_agronom_quot_tsvetochnyy_5l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 50
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
           "qty": 40
@@ -1207,7 +1277,7 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 35
+          "qty": 34
         },
         {
           "store": "Сатпаева 18",
@@ -1222,7 +1292,7 @@
         {
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
-          "qty": 18
+          "qty": 17
         }
       ],
       "image": ""
@@ -1460,6 +1530,11 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunty_dlya_ovoshchey/grunt_quot_sam_sebe_agronom_quot_universalnyy_5l/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 30
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
           "qty": 61
@@ -1467,12 +1542,12 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 61
+          "qty": 60
         },
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 63
+          "qty": 61
         },
         {
           "store": "шоссе Алаш 15",
@@ -1494,9 +1569,14 @@
       "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_komnatnykh_oranzhereynykh_i_dekorativnykh_tsvetov_i_rasteniy_5/",
       "stock": [
         {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 20
+        },
+        {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 44
+          "qty": 43
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -1740,7 +1820,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 9
+          "qty": 8
         },
         {
           "store": "шоссе Алаш 15",
@@ -2179,7 +2259,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 13
+          "qty": 11
         },
         {
           "store": "шоссе Алаш 15",
@@ -2955,7 +3035,7 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 75
+          "qty": 33
         },
         {
           "store": "шоссе Алаш 15",
@@ -3061,11 +3141,6 @@
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
           "qty": 8
-        },
-        {
-          "store": "шоссе Алаш 15",
-          "address": "шоссе Алаш 15",
-          "qty": 1
         }
       ],
       "image": ""
@@ -3157,25 +3232,6 @@
       "image": ""
     },
     {
-      "name": "Сушилка - поддон М 1176 (М-пластика РФ)",
-      "sku": "М 1176 2 495",
-      "price": "1176 2 495 ₸",
-      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/kukhonnye_aksessuary/sushilki_dop/sushilka_poddon_m_1176_rf/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 7
-        },
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 3
-        }
-      ],
-      "image": ""
-    },
-    {
       "name": "Диспенсер для мыла ВЯЗАНИЕ М 2239 (М-Пластика РФ)",
       "sku": "арш-004545 985",
       "price": "004545 985 ₸",
@@ -3219,11 +3275,6 @@
       "price": "26199205009 120 000 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_2_1780_ss/",
       "stock": [
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 3
-        },
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
@@ -3390,7 +3441,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 30
+          "qty": 28
         },
         {
           "store": "шоссе Алаш 15",
@@ -4018,7 +4069,7 @@
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 362
+          "qty": 361
         },
         {
           "store": "шоссе Алаш 15",
@@ -4052,7 +4103,7 @@
         {
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
-          "qty": 22
+          "qty": 21
         }
       ],
       "image": ""
@@ -4186,7 +4237,7 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 40
+          "qty": 37
         }
       ],
       "image": ""
@@ -4993,7 +5044,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 15
+          "qty": 14
         }
       ],
       "image": ""
@@ -5160,7 +5211,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 11
+          "qty": 10
         },
         {
           "store": "Кенесары 4",
@@ -5442,7 +5493,7 @@
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 7
+          "qty": 5
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -5486,7 +5537,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 16
+          "qty": 15
         },
         {
           "store": "шоссе Алаш 15",
@@ -5656,6 +5707,45 @@
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
           "qty": 121
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для белья Diqat 105 (И)",
+      "sku": "ПЛИN-02332 2 550",
+      "price": "02332 2 550 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/vannaya/ukhod_za_odezhdoy/korziny_dlya_belya/korzina_dlya_belya_diqat_105_i/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 30
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 20
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 11
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 17
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 30
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 13/3",
+          "qty": 18
         }
       ],
       "image": ""
