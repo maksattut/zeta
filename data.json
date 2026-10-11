@@ -1,7 +1,7 @@
 {
   "source": "https://astana.zeta.kz",
   "city": "Астана",
-  "updatedAt": "2026-10-10T09:53:08Z",
+  "updatedAt": "2026-10-11T10:03:25Z",
   "products": [
     {
       "name": "LACY Блюдо на ножке 300мм 1*4, 96770",
@@ -84,7 +84,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 20
+          "qty": 19
         },
         {
           "store": "Кенесары 4",
@@ -157,7 +157,7 @@
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 48
+          "qty": 47
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -537,7 +537,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 20
+          "qty": 19
         },
         {
           "store": "Кенесары 4",
@@ -615,7 +615,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 21
+          "qty": 20
         },
         {
           "store": "Кенесары 4",
@@ -649,7 +649,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 4
+          "qty": 2
         },
         {
           "store": "Кенесары 4",
@@ -712,7 +712,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 19
+          "qty": 17
         },
         {
           "store": "Кенесары 4",
@@ -799,12 +799,12 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 204
+          "qty": 201
         },
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 191
+          "qty": 176
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -1120,7 +1120,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 24
+          "qty": 23
         },
         {
           "store": "Кенесары 4",
@@ -1154,7 +1154,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 5
+          "qty": 2
         },
         {
           "store": "Кенесары 4",
@@ -1761,20 +1761,6 @@
       "image": ""
     },
     {
-      "name": "Кашпо ПРИЗМА D130мм 1л с поддоном М 3137 (М-пластика РФ)",
-      "sku": "ИМП-ТВ-075965 745",
-      "price": "075965 745 ₸",
-      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/gorshki_dlya_tsvetov/kashpo_prizma_d130mm_1l_s_poddonom_m_3137_rf/",
-      "stock": [
-        {
-          "store": "Кенесары 4",
-          "address": "Кенесары 4",
-          "qty": 5
-        }
-      ],
-      "image": ""
-    },
-    {
       "name": "Кашпо ПРИЗМА D175мм 2,6л с поддоном М 3138 (М-пластика РФ)",
       "sku": "ИМП-ТВ-075966 1 400",
       "price": "075966 1 400 ₸",
@@ -1807,7 +1793,7 @@
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 13
+          "qty": 11
         }
       ],
       "image": ""
@@ -2782,7 +2768,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 29
+          "qty": 24
         },
         {
           "store": "Кенесары 4",
@@ -3162,8 +3148,8 @@
     },
     {
       "name": "Шкаф медицинский МД 2 1780/SS",
-      "sku": "S26199205009 120 000",
-      "price": "26199205009 120 000 ₸",
+      "sku": "S26199205009 131 030",
+      "price": "26199205009 131 030 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_2_1780_ss/",
       "stock": [
         {
@@ -3436,8 +3422,8 @@
     },
     {
       "name": "Стеллаж MS 200KD/100x60/4",
-      "sku": "S24099246402 42 340",
-      "price": "24099246402 42 340 ₸",
+      "sku": "S24099246402 63 375",
+      "price": "24099246402 63 375 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/stellazh_ms_200kd_100x60_4/",
       "stock": [
         {
@@ -3450,8 +3436,8 @@
     },
     {
       "name": "Стеллаж MS 200KD/100x50/4",
-      "sku": "S24099245402 37 600",
-      "price": "24099245402 37 600 ₸",
+      "sku": "S24099245402 49 305",
+      "price": "24099245402 49 305 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/stellazh_ms_200kd_100x50_4/",
       "stock": [
         {
@@ -3469,8 +3455,8 @@
     },
     {
       "name": "Стеллаж MS 200KD/100x40/4",
-      "sku": "S24099244402 33 875",
-      "price": "24099244402 33 875 ₸",
+      "sku": "S24099244402 43 955",
+      "price": "24099244402 43 955 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/stellazh_ms_200kd_100x40_4/",
       "stock": [
         {
@@ -3488,8 +3474,8 @@
     },
     {
       "name": "Стеллаж MS 200KD/100x30/4",
-      "sku": "S24099243402 29 480",
-      "price": "24099243402 29 480 ₸",
+      "sku": "S24099243402 38 755",
+      "price": "24099243402 38 755 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/stellazh_ms_200kd_100x30_4/",
       "stock": [
         {
@@ -3629,8 +3615,8 @@
     },
     {
       "name": "Шкаф медицинский МД 1 1760/SG",
-      "sku": "S26199204509 113 000",
-      "price": "26199204509 113 000 ₸",
+      "sku": "S26199204509 123 375",
+      "price": "26199204509 123 375 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_1_1760_sg/",
       "stock": [
         {
@@ -4014,7 +4000,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 83
+          "qty": 82
         }
       ],
       "image": ""
@@ -4501,8 +4487,8 @@
     },
     {
       "name": "Сейф T-17.EL",
-      "sku": "S10399250414 34 320",
-      "price": "10399250414 34 320 ₸",
+      "sku": "S10399250414 30 140",
+      "price": "10399250414 30 140 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_17_el/",
       "stock": [
         {
@@ -4574,8 +4560,8 @@
     },
     {
       "name": "Сейф T-23.EL",
-      "sku": "S10399260414 41 600",
-      "price": "10399260414 41 600 ₸",
+      "sku": "S10399260414 35 060",
+      "price": "10399260414 35 060 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_23_el/",
       "stock": [
         {
@@ -4642,8 +4628,8 @@
     },
     {
       "name": "Сейф T-28.EL",
-      "sku": "S10399270414 52 000",
-      "price": "10399270414 52 000 ₸",
+      "sku": "S10399270414 46 730",
+      "price": "10399270414 46 730 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_28_el/",
       "stock": [
         {
@@ -4705,8 +4691,8 @@
     },
     {
       "name": "Сейф T-40.EL",
-      "sku": "S10399280414 68 640",
-      "price": "10399280414 68 640 ₸",
+      "sku": "S10399280414 62 885",
+      "price": "10399280414 62 885 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/seyf_t_40_el/",
       "stock": [
         {
@@ -4826,7 +4812,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 5
+          "qty": 4
         },
         {
           "store": "шоссе Алаш 15",
@@ -4838,8 +4824,8 @@
     },
     {
       "name": "Шкаф медицинский МД 1 1760/SS",
-      "sku": "S26199204009 117 520",
-      "price": "26199204009 117 520 ₸",
+      "sku": "S26199204009 123 375",
+      "price": "26199204009 123 375 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_1_1760_ss/",
       "stock": [
         {
@@ -5077,8 +5063,8 @@
     },
     {
       "name": "Шкаф медицинский МД 2 1780/SG",
-      "sku": "S26199205509 118 000",
-      "price": "26199205509 118 000 ₸",
+      "sku": "S26199205509 128 845",
+      "price": "26199205509 128 845 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/metal_shkafy_i_seyfy/shkaf_meditsinskiy_md_2_1780_sg/",
       "stock": [
         {
@@ -5091,8 +5077,8 @@
     },
     {
       "name": "Шкаф M-18",
-      "sku": "S20499380302 98 800",
-      "price": "20499380302 98 800 ₸",
+      "sku": "S20499380302 103 705",
+      "price": "20499380302 103 705 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/mebel_dlya_uchrezhdeniy/dlya_spets_uchrezhdeniy/shkaf_m_18/",
       "stock": [
         {
@@ -5331,7 +5317,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 25
+          "qty": 24
         },
         {
           "store": "шоссе Алаш 15",
@@ -5341,7 +5327,7 @@
         {
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
-          "qty": 1
+          "qty": 11
         }
       ],
       "image": ""
@@ -5462,7 +5448,7 @@
         {
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
-          "qty": 8
+          "qty": 28
         }
       ],
       "image": ""
@@ -5661,6 +5647,35 @@
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
           "qty": 31
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Корзина для мелочей 3722 (ВИ)",
+      "sku": "ПЛИ-010588 1 010",
+      "price": "010588 1 010 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/khranenie/korziny_dop/korziny/korzina_dlya_melochey_3722_vi/",
+      "stock": [
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 57
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 160
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 253
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 13/3",
+          "qty": 25
         }
       ],
       "image": ""
