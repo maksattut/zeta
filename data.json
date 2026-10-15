@@ -1,7 +1,7 @@
 {
   "source": "https://astana.zeta.kz",
   "city": "Астана",
-  "updatedAt": "2026-10-14T08:45:53Z",
+  "updatedAt": "2026-10-15T08:20:55Z",
   "products": [
     {
       "name": "LACY Блюдо на ножке 300мм 1*4, 96770",
@@ -57,20 +57,6 @@
           "store": "Коргалжынское шоссе 13/3",
           "address": "Коргалжынское шоссе 13/3",
           "qty": 17
-        }
-      ],
-      "image": ""
-    },
-    {
-      "name": "Грунт \"ЦАРИЦА ЦВЕТОВ\" для суккулентов 2,5л",
-      "sku": "H00000001506 545",
-      "price": "00000001506 545 ₸",
-      "url": "https://astana.zeta.kz/catalog/ulitsa/sad_i_dacha/grunt/grunt_quot_tsaritsa_tsvetov_quot_dlya_sukkulentov_2_5l/",
-      "stock": [
-        {
-          "store": "Бирлик 55",
-          "address": "Жибек Жолы 55",
-          "qty": 3
         }
       ],
       "image": ""
@@ -176,7 +162,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 12
+          "qty": 11
         }
       ],
       "image": ""
@@ -224,7 +210,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 15
+          "qty": 14
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -378,7 +364,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 62
+          "qty": 60
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -397,7 +383,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 49
+          "qty": 48
         },
         {
           "store": "Кенесары 4",
@@ -557,7 +543,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 29
+          "qty": 24
         },
         {
           "store": "Кенесары 4",
@@ -567,7 +553,7 @@
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
-          "qty": 15
+          "qty": 11
         },
         {
           "store": "Сатпаева 18",
@@ -591,7 +577,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 17
+          "qty": 15
         },
         {
           "store": "Кенесары 4",
@@ -736,12 +722,12 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 39
+          "qty": 33
         },
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 252
+          "qty": 251
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -751,12 +737,12 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 191
+          "qty": 172
         },
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 112
+          "qty": 104
         },
         {
           "store": "Коргалжынское шоссе 13/3",
@@ -1062,7 +1048,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 17
+          "qty": 16
         },
         {
           "store": "Кенесары 4",
@@ -1341,7 +1327,7 @@
         {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
-          "qty": 15
+          "qty": 14
         }
       ],
       "image": ""
@@ -1355,7 +1341,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 28
+          "qty": 27
         },
         {
           "store": "Кенесары 4",
@@ -1996,7 +1982,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 15
+          "qty": 13
         },
         {
           "store": "шоссе Алаш 15",
@@ -2399,6 +2385,11 @@
           "qty": 3
         },
         {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 48
+        },
+        {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
           "qty": 27
@@ -2743,7 +2734,7 @@
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 15
+          "qty": 14
         },
         {
           "store": "шоссе Алаш 15",
@@ -3409,6 +3400,11 @@
       "url": "https://astana.zeta.kz/catalog/mebel/krovati_parent_dop/krovati_dlya_uchrezhdeniy/krovat_mod_t_2_kh_yarusn_bez_vatnogo_matratsa_mdf/",
       "stock": [
         {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 10
+        },
+        {
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
           "qty": 7
@@ -3791,7 +3787,7 @@
         {
           "store": "Кенесары 4",
           "address": "Кенесары 4",
-          "qty": 356
+          "qty": 343
         },
         {
           "store": "шоссе Алаш 15",
@@ -5191,7 +5187,7 @@
         {
           "store": "Сатпаева 18",
           "address": "Сатпаева 18",
-          "qty": 24
+          "qty": 23
         },
         {
           "store": "шоссе Алаш 15",
@@ -5215,7 +5211,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 7
+          "qty": 1
         },
         {
           "store": "Бараева 2Б «Z-Home»",
@@ -5249,7 +5245,7 @@
         {
           "store": "Бирлик 55",
           "address": "Жибек Жолы 55",
-          "qty": 9
+          "qty": 8
         },
         {
           "store": "Кенесары 4",
@@ -5299,6 +5295,11 @@
       "price": "00241 35 350 ₸",
       "url": "https://astana.zeta.kz/catalog/mebel/korpusnaya_mebel/shkafy_i_stellazhi4/shkaf_dlya_odezhdy_kul_126_400_500_2000_n_standartnye_tsveta/",
       "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 1
+        },
         {
           "store": "Бараева 2Б «Z-Home»",
           "address": "Бараева",
@@ -5621,6 +5622,45 @@
           "store": "шоссе Алаш 15",
           "address": "шоссе Алаш 15",
           "qty": 4
+        }
+      ],
+      "image": ""
+    },
+    {
+      "name": "Емкость для сыпучих продуктов 0,9л М 1220 (М-Пластика РФ) б/х",
+      "sku": "М 1220 795",
+      "price": "1220 795 ₸",
+      "url": "https://astana.zeta.kz/catalog/dom/kukhnya/khranenie_produktov_parents/plastik/emkost_dlya_sypuchikh_produktov_0_9l_m_1220_rf_b_kh/",
+      "stock": [
+        {
+          "store": "Бирлик 55",
+          "address": "Жибек Жолы 55",
+          "qty": 140
+        },
+        {
+          "store": "Кенесары 4",
+          "address": "Кенесары 4",
+          "qty": 50
+        },
+        {
+          "store": "Бараева 2Б «Z-Home»",
+          "address": "Бараева",
+          "qty": 52
+        },
+        {
+          "store": "Сатпаева 18",
+          "address": "Сатпаева 18",
+          "qty": 47
+        },
+        {
+          "store": "шоссе Алаш 15",
+          "address": "шоссе Алаш 15",
+          "qty": 79
+        },
+        {
+          "store": "Коргалжынское шоссе 13/3",
+          "address": "Коргалжынское шоссе 13/3",
+          "qty": 7
         }
       ],
       "image": ""
